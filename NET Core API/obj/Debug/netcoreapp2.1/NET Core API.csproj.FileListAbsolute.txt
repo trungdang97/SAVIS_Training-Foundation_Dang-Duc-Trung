@@ -1,0 +1,14 @@
+C:\Users\Trung\Documents\Visual Studio 2015\Projects\SAVIS_Training-Foundation_Dang-Duc-Trung\NET Core API\bin\Debug\netcoreapp2.1\NET Core API.deps.json
+C:\Users\Trung\Documents\Visual Studio 2015\Projects\SAVIS_Training-Foundation_Dang-Duc-Trung\NET Core API\bin\Debug\netcoreapp2.1\NET Core API.runtimeconfig.json
+C:\Users\Trung\Documents\Visual Studio 2015\Projects\SAVIS_Training-Foundation_Dang-Duc-Trung\NET Core API\bin\Debug\netcoreapp2.1\NET Core API.runtimeconfig.dev.json
+C:\Users\Trung\Documents\Visual Studio 2015\Projects\SAVIS_Training-Foundation_Dang-Duc-Trung\NET Core API\bin\Debug\netcoreapp2.1\NET Core API.dll
+C:\Users\Trung\Documents\Visual Studio 2015\Projects\SAVIS_Training-Foundation_Dang-Duc-Trung\NET Core API\bin\Debug\netcoreapp2.1\NET Core API.pdb
+C:\Users\Trung\Documents\Visual Studio 2015\Projects\SAVIS_Training-Foundation_Dang-Duc-Trung\NET Core API\obj\Debug\netcoreapp2.1\NET Core API.csprojAssemblyReference.cache
+C:\Users\Trung\Documents\Visual Studio 2015\Projects\SAVIS_Training-Foundation_Dang-Duc-Trung\NET Core API\obj\Debug\netcoreapp2.1\NET Core API.csproj.CoreCompileInputs.cache
+C:\Users\Trung\Documents\Visual Studio 2015\Projects\SAVIS_Training-Foundation_Dang-Duc-Trung\NET Core API\obj\Debug\netcoreapp2.1\NET Core API.RazorAssemblyInfo.cache
+C:\Users\Trung\Documents\Visual Studio 2015\Projects\SAVIS_Training-Foundation_Dang-Duc-Trung\NET Core API\obj\Debug\netcoreapp2.1\NET Core API.RazorAssemblyInfo.cs
+C:\Users\Trung\Documents\Visual Studio 2015\Projects\SAVIS_Training-Foundation_Dang-Duc-Trung\NET Core API\obj\Debug\netcoreapp2.1\NET Core API.AssemblyInfoInputs.cache
+C:\Users\Trung\Documents\Visual Studio 2015\Projects\SAVIS_Training-Foundation_Dang-Duc-Trung\NET Core API\obj\Debug\netcoreapp2.1\NET Core API.AssemblyInfo.cs
+C:\Users\Trung\Documents\Visual Studio 2015\Projects\SAVIS_Training-Foundation_Dang-Duc-Trung\NET Core API\obj\Debug\netcoreapp2.1\NET Core API.RazorTargetAssemblyInfo.cache
+C:\Users\Trung\Documents\Visual Studio 2015\Projects\SAVIS_Training-Foundation_Dang-Duc-Trung\NET Core API\obj\Debug\netcoreapp2.1\NET Core API.dll
+C:\Users\Trung\Documents\Visual Studio 2015\Projects\SAVIS_Training-Foundation_Dang-Duc-Trung\NET Core API\obj\Debug\netcoreapp2.1\NET Core API.pdb

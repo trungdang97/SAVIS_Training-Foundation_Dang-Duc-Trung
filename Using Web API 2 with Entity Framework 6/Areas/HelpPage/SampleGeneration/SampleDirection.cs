@@ -1,0 +1,11 @@
+namespace Using_Web_API_2_with_Entity_Framework_6.Areas.HelpPage
+{
+    /// <summary>
+    /// Indicates whether the sample is used for request or response
+    /// </summary>
+    public enum SampleDirection
+    {
+        Request = 0,
+        Response
+    }
+}

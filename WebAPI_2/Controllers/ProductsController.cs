@@ -35,12 +35,12 @@ namespace WebAPI_2.Controllers
 
         [Route("api/v1/products")]  // custom + constraints
         [HttpPost]                  //define method trong controller
-        public IHttpActionResult AddProduct(string strName, string strCategory, decimal decPrice)
+        public IHttpActionResult AddProduct([FromBody]Product product)
         {
-            Product product = new Product() { intId = products.Count + 1, strName = strName, strCategory = strCategory, decPrice = decPrice };
+            //Product product = new Product() { intId = products.Count + 1, strName = strName, strCategory = strCategory, decPrice = decPrice };
             products.Add(product);
 
-            if(strName == "" || strName == null)
+            if(product.strName == "" || product.strName == null)
             {
                 return Content(HttpStatusCode.BadRequest, "Product name is empty!");
             }

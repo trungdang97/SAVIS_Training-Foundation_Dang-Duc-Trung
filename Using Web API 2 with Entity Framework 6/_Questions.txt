@@ -1,0 +1,5 @@
+﻿- Async và await hiểu như thế nào?
+- Làm như thế nào để route đến được API nằm trong từng area một
+- OData là gì? Dùng để làm gì?
+- Tìm hiểu về Formatter (dùng để gửi ảnh, format các loại file)
+- Khi nào cần dùng Content Negotiation?

@@ -1,0 +1,13 @@
+@using Using_Web_API_2_with_Entity_Framework_6.Areas.HelpPage
+@model InvalidSample
+
+@if (HttpContext.Current.IsDebuggingEnabled)
+{
+    <div class="warning-message-container">
+        <p>@Model.ErrorMessage</p>
+    </div>
+}
+else
+{
+    <p>Sample not available.</p>
+}

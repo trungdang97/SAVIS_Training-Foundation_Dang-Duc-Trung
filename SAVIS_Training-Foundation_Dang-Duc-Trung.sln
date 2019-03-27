@@ -1,9 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 14
-VisualStudioVersion = 14.0.25420.1
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.489
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAPI_2", "WebAPI_2\WebAPI_2.csproj", "{C64175FD-02C8-4EE8-AF25-0B4152A94889}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Using Web API 2 with Entity Framework 6", "Using Web API 2 with Entity Framework 6\Using Web API 2 with Entity Framework 6.csproj", "{50FD8FDB-F18B-41E3-A548-D8C267F71C38}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NET Core API", "NET Core API\NET Core API.csproj", "{0A8948AB-E3F2-46CE-9B49-AF7C0DA4D808}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,8 +19,19 @@ Global
 		{C64175FD-02C8-4EE8-AF25-0B4152A94889}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C64175FD-02C8-4EE8-AF25-0B4152A94889}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C64175FD-02C8-4EE8-AF25-0B4152A94889}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50FD8FDB-F18B-41E3-A548-D8C267F71C38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50FD8FDB-F18B-41E3-A548-D8C267F71C38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50FD8FDB-F18B-41E3-A548-D8C267F71C38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50FD8FDB-F18B-41E3-A548-D8C267F71C38}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A8948AB-E3F2-46CE-9B49-AF7C0DA4D808}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A8948AB-E3F2-46CE-9B49-AF7C0DA4D808}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A8948AB-E3F2-46CE-9B49-AF7C0DA4D808}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A8948AB-E3F2-46CE-9B49-AF7C0DA4D808}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E070DAF7-C22A-48A5-9FAC-7688DC22E6E5}
 	EndGlobalSection
 EndGlobal
