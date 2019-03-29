@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAPI_2", "WebAPI_2\WebAPI
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Using Web API 2 with Entity Framework 6", "Using Web API 2 with Entity Framework 6\Using Web API 2 with Entity Framework 6.csproj", "{50FD8FDB-F18B-41E3-A548-D8C267F71C38}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NET Core API", "NET Core API\NET Core API.csproj", "{0A8948AB-E3F2-46CE-9B49-AF7C0DA4D808}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NetCoreAPI", "..\..\..\..\source\repos\NetCore\NetCoreAPI\NetCoreAPI.csproj", "{267A7F89-44A2-4FA2-9DF6-00E7E7344B89}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -23,10 +23,10 @@ Global
 		{50FD8FDB-F18B-41E3-A548-D8C267F71C38}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{50FD8FDB-F18B-41E3-A548-D8C267F71C38}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{50FD8FDB-F18B-41E3-A548-D8C267F71C38}.Release|Any CPU.Build.0 = Release|Any CPU
-		{0A8948AB-E3F2-46CE-9B49-AF7C0DA4D808}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{0A8948AB-E3F2-46CE-9B49-AF7C0DA4D808}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{0A8948AB-E3F2-46CE-9B49-AF7C0DA4D808}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{0A8948AB-E3F2-46CE-9B49-AF7C0DA4D808}.Release|Any CPU.Build.0 = Release|Any CPU
+		{267A7F89-44A2-4FA2-9DF6-00E7E7344B89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{267A7F89-44A2-4FA2-9DF6-00E7E7344B89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{267A7F89-44A2-4FA2-9DF6-00E7E7344B89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{267A7F89-44A2-4FA2-9DF6-00E7E7344B89}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
