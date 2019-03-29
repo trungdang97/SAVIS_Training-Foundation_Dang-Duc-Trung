@@ -23,7 +23,7 @@ namespace NetCoreAPI.Models
             if (!optionsBuilder.IsConfigured)
             {
 #warning To protect potentially sensitive information in your connection string, you should move it out of source code. See http://go.microsoft.com/fwlink/?LinkId=723263 for guidance on storing connection strings.
-                optionsBuilder.UseSqlServer("Data Source=.\\SQLEXPRESS;Initial Catalog=QuanLySinhVien;Persist Security Info=True;User ID=sa;Password=zzzpro2xzzz");
+                optionsBuilder.UseSqlServer("Data Source=.\\SQLEXPRESS;Initial Catalog=QuanLySinhVien;Integrated Security=True");
             }
         }
 
@@ -43,7 +43,7 @@ namespace NetCoreAPI.Models
             modelBuilder.Entity<Student>(entity =>
             {
                 entity.HasIndex(e => e.Code)
-                    .HasName("UQ__SinhVien__939AE77474EFBB0E")
+                    .HasName("UQ__Student__A25C5AA79865611A")
                     .IsUnique();
 
                 entity.Property(e => e.Birthday).HasColumnType("date");

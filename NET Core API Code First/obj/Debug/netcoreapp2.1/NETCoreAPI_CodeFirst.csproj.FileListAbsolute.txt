@@ -1,0 +1,13 @@
+C:\Users\trung\Desktop\Work\SAVIS_Training-Foundation_Dang-Duc-Trung\NET Core API Code First\bin\Debug\netcoreapp2.1\NETCoreAPI_CodeFirst.deps.json
+C:\Users\trung\Desktop\Work\SAVIS_Training-Foundation_Dang-Duc-Trung\NET Core API Code First\bin\Debug\netcoreapp2.1\NETCoreAPI_CodeFirst.runtimeconfig.json
+C:\Users\trung\Desktop\Work\SAVIS_Training-Foundation_Dang-Duc-Trung\NET Core API Code First\bin\Debug\netcoreapp2.1\NETCoreAPI_CodeFirst.runtimeconfig.dev.json
+C:\Users\trung\Desktop\Work\SAVIS_Training-Foundation_Dang-Duc-Trung\NET Core API Code First\bin\Debug\netcoreapp2.1\NETCoreAPI_CodeFirst.dll
+C:\Users\trung\Desktop\Work\SAVIS_Training-Foundation_Dang-Duc-Trung\NET Core API Code First\bin\Debug\netcoreapp2.1\NETCoreAPI_CodeFirst.pdb
+C:\Users\trung\Desktop\Work\SAVIS_Training-Foundation_Dang-Duc-Trung\NET Core API Code First\obj\Debug\netcoreapp2.1\NETCoreAPI_CodeFirst.csproj.CoreCompileInputs.cache
+C:\Users\trung\Desktop\Work\SAVIS_Training-Foundation_Dang-Duc-Trung\NET Core API Code First\obj\Debug\netcoreapp2.1\NETCoreAPI_CodeFirst.RazorAssemblyInfo.cache
+C:\Users\trung\Desktop\Work\SAVIS_Training-Foundation_Dang-Duc-Trung\NET Core API Code First\obj\Debug\netcoreapp2.1\NETCoreAPI_CodeFirst.RazorAssemblyInfo.cs
+C:\Users\trung\Desktop\Work\SAVIS_Training-Foundation_Dang-Duc-Trung\NET Core API Code First\obj\Debug\netcoreapp2.1\NETCoreAPI_CodeFirst.AssemblyInfoInputs.cache
+C:\Users\trung\Desktop\Work\SAVIS_Training-Foundation_Dang-Duc-Trung\NET Core API Code First\obj\Debug\netcoreapp2.1\NETCoreAPI_CodeFirst.AssemblyInfo.cs
+C:\Users\trung\Desktop\Work\SAVIS_Training-Foundation_Dang-Duc-Trung\NET Core API Code First\obj\Debug\netcoreapp2.1\NETCoreAPI_CodeFirst.RazorTargetAssemblyInfo.cache
+C:\Users\trung\Desktop\Work\SAVIS_Training-Foundation_Dang-Duc-Trung\NET Core API Code First\obj\Debug\netcoreapp2.1\NETCoreAPI_CodeFirst.dll
+C:\Users\trung\Desktop\Work\SAVIS_Training-Foundation_Dang-Duc-Trung\NET Core API Code First\obj\Debug\netcoreapp2.1\NETCoreAPI_CodeFirst.pdb

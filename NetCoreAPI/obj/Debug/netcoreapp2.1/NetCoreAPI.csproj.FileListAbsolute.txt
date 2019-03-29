@@ -12,3 +12,17 @@ C:\Users\Trung\source\repos\NetCore\NetCoreAPI\obj\Debug\netcoreapp2.1\NetCoreAP
 C:\Users\Trung\source\repos\NetCore\NetCoreAPI\obj\Debug\netcoreapp2.1\NetCoreAPI.dll
 C:\Users\Trung\source\repos\NetCore\NetCoreAPI\obj\Debug\netcoreapp2.1\NetCoreAPI.pdb
 C:\Users\Trung\source\repos\NetCore\NetCoreAPI\obj\Debug\netcoreapp2.1\NetCoreAPI.csprojAssemblyReference.cache
+C:\Users\trung\Desktop\Work\SAVIS_Training-Foundation_Dang-Duc-Trung\NetCoreAPI\obj\Debug\netcoreapp2.1\NetCoreAPI.csproj.CoreCompileInputs.cache
+C:\Users\trung\Desktop\Work\SAVIS_Training-Foundation_Dang-Duc-Trung\NetCoreAPI\obj\Debug\netcoreapp2.1\NetCoreAPI.RazorAssemblyInfo.cache
+C:\Users\trung\Desktop\Work\SAVIS_Training-Foundation_Dang-Duc-Trung\NetCoreAPI\obj\Debug\netcoreapp2.1\NetCoreAPI.RazorAssemblyInfo.cs
+C:\Users\trung\Desktop\Work\SAVIS_Training-Foundation_Dang-Duc-Trung\NetCoreAPI\obj\Debug\netcoreapp2.1\NetCoreAPI.AssemblyInfoInputs.cache
+C:\Users\trung\Desktop\Work\SAVIS_Training-Foundation_Dang-Duc-Trung\NetCoreAPI\obj\Debug\netcoreapp2.1\NetCoreAPI.AssemblyInfo.cs
+C:\Users\trung\Desktop\Work\SAVIS_Training-Foundation_Dang-Duc-Trung\NetCoreAPI\obj\Debug\netcoreapp2.1\NetCoreAPI.dll
+C:\Users\trung\Desktop\Work\SAVIS_Training-Foundation_Dang-Duc-Trung\NetCoreAPI\obj\Debug\netcoreapp2.1\NetCoreAPI.pdb
+C:\Users\trung\Desktop\Work\SAVIS_Training-Foundation_Dang-Duc-Trung\NetCoreAPI\bin\Debug\netcoreapp2.1\NetCoreAPI.deps.json
+C:\Users\trung\Desktop\Work\SAVIS_Training-Foundation_Dang-Duc-Trung\NetCoreAPI\bin\Debug\netcoreapp2.1\NetCoreAPI.runtimeconfig.json
+C:\Users\trung\Desktop\Work\SAVIS_Training-Foundation_Dang-Duc-Trung\NetCoreAPI\bin\Debug\netcoreapp2.1\NetCoreAPI.runtimeconfig.dev.json
+C:\Users\trung\Desktop\Work\SAVIS_Training-Foundation_Dang-Duc-Trung\NetCoreAPI\bin\Debug\netcoreapp2.1\NetCoreAPI.dll
+C:\Users\trung\Desktop\Work\SAVIS_Training-Foundation_Dang-Duc-Trung\NetCoreAPI\bin\Debug\netcoreapp2.1\NetCoreAPI.pdb
+C:\Users\trung\Desktop\Work\SAVIS_Training-Foundation_Dang-Duc-Trung\NetCoreAPI\obj\Debug\netcoreapp2.1\NetCoreAPI.RazorTargetAssemblyInfo.cache
+C:\Users\trung\Desktop\Work\SAVIS_Training-Foundation_Dang-Duc-Trung\NetCoreAPI\obj\Debug\netcoreapp2.1\NetCoreAPI.csprojAssemblyReference.cache

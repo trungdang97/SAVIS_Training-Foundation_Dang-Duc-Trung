@@ -39,3 +39,46 @@ c:\users\trung\documents\visual studio 2015\Projects\SAVIS_Training-Foundation_D
 c:\users\trung\documents\visual studio 2015\Projects\SAVIS_Training-Foundation_Dang-Duc-Trung\WebAPI_2\obj\Debug\WebAPI_2.dll
 c:\users\trung\documents\visual studio 2015\Projects\SAVIS_Training-Foundation_Dang-Duc-Trung\WebAPI_2\obj\Debug\WebAPI_2.pdb
 C:\Users\Trung\documents\visual studio 2015\Projects\SAVIS_Training-Foundation_Dang-Duc-Trung\WebAPI_2\obj\Debug\WebAPI_2.csprojResolveAssemblyReference.cache
+C:\Users\trung\Desktop\Work\SAVIS_Training-Foundation_Dang-Duc-Trung\WebAPI_2\bin\ApplicationInsights.config
+C:\Users\trung\Desktop\Work\SAVIS_Training-Foundation_Dang-Duc-Trung\WebAPI_2\bin\roslyn\csc.exe
+C:\Users\trung\Desktop\Work\SAVIS_Training-Foundation_Dang-Duc-Trung\WebAPI_2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\trung\Desktop\Work\SAVIS_Training-Foundation_Dang-Duc-Trung\WebAPI_2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\trung\Desktop\Work\SAVIS_Training-Foundation_Dang-Duc-Trung\WebAPI_2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\trung\Desktop\Work\SAVIS_Training-Foundation_Dang-Duc-Trung\WebAPI_2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\trung\Desktop\Work\SAVIS_Training-Foundation_Dang-Duc-Trung\WebAPI_2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\trung\Desktop\Work\SAVIS_Training-Foundation_Dang-Duc-Trung\WebAPI_2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\trung\Desktop\Work\SAVIS_Training-Foundation_Dang-Duc-Trung\WebAPI_2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\trung\Desktop\Work\SAVIS_Training-Foundation_Dang-Duc-Trung\WebAPI_2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\trung\Desktop\Work\SAVIS_Training-Foundation_Dang-Duc-Trung\WebAPI_2\bin\roslyn\vbc.exe
+C:\Users\trung\Desktop\Work\SAVIS_Training-Foundation_Dang-Duc-Trung\WebAPI_2\bin\roslyn\VBCSCompiler.exe
+C:\Users\trung\Desktop\Work\SAVIS_Training-Foundation_Dang-Duc-Trung\WebAPI_2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\trung\Desktop\Work\SAVIS_Training-Foundation_Dang-Duc-Trung\WebAPI_2\bin\WebAPI_2.dll.config
+C:\Users\trung\Desktop\Work\SAVIS_Training-Foundation_Dang-Duc-Trung\WebAPI_2\bin\WebAPI_2.dll
+C:\Users\trung\Desktop\Work\SAVIS_Training-Foundation_Dang-Duc-Trung\WebAPI_2\bin\WebAPI_2.pdb
+C:\Users\trung\Desktop\Work\SAVIS_Training-Foundation_Dang-Duc-Trung\WebAPI_2\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\trung\Desktop\Work\SAVIS_Training-Foundation_Dang-Duc-Trung\WebAPI_2\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\trung\Desktop\Work\SAVIS_Training-Foundation_Dang-Duc-Trung\WebAPI_2\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\trung\Desktop\Work\SAVIS_Training-Foundation_Dang-Duc-Trung\WebAPI_2\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\trung\Desktop\Work\SAVIS_Training-Foundation_Dang-Duc-Trung\WebAPI_2\bin\Microsoft.AI.Web.dll
+C:\Users\trung\Desktop\Work\SAVIS_Training-Foundation_Dang-Duc-Trung\WebAPI_2\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\trung\Desktop\Work\SAVIS_Training-Foundation_Dang-Duc-Trung\WebAPI_2\bin\Microsoft.ApplicationInsights.dll
+C:\Users\trung\Desktop\Work\SAVIS_Training-Foundation_Dang-Duc-Trung\WebAPI_2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\trung\Desktop\Work\SAVIS_Training-Foundation_Dang-Duc-Trung\WebAPI_2\bin\Newtonsoft.Json.dll
+C:\Users\trung\Desktop\Work\SAVIS_Training-Foundation_Dang-Duc-Trung\WebAPI_2\bin\System.Net.Http.Formatting.dll
+C:\Users\trung\Desktop\Work\SAVIS_Training-Foundation_Dang-Duc-Trung\WebAPI_2\bin\System.Web.Http.dll
+C:\Users\trung\Desktop\Work\SAVIS_Training-Foundation_Dang-Duc-Trung\WebAPI_2\bin\System.Web.Http.WebHost.dll
+C:\Users\trung\Desktop\Work\SAVIS_Training-Foundation_Dang-Duc-Trung\WebAPI_2\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\trung\Desktop\Work\SAVIS_Training-Foundation_Dang-Duc-Trung\WebAPI_2\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\trung\Desktop\Work\SAVIS_Training-Foundation_Dang-Duc-Trung\WebAPI_2\bin\Microsoft.AI.Web.xml
+C:\Users\trung\Desktop\Work\SAVIS_Training-Foundation_Dang-Duc-Trung\WebAPI_2\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\trung\Desktop\Work\SAVIS_Training-Foundation_Dang-Duc-Trung\WebAPI_2\bin\Microsoft.ApplicationInsights.xml
+C:\Users\trung\Desktop\Work\SAVIS_Training-Foundation_Dang-Duc-Trung\WebAPI_2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\trung\Desktop\Work\SAVIS_Training-Foundation_Dang-Duc-Trung\WebAPI_2\bin\Newtonsoft.Json.xml
+C:\Users\trung\Desktop\Work\SAVIS_Training-Foundation_Dang-Duc-Trung\WebAPI_2\bin\System.Net.Http.Formatting.xml
+C:\Users\trung\Desktop\Work\SAVIS_Training-Foundation_Dang-Duc-Trung\WebAPI_2\bin\System.Web.Http.xml
+C:\Users\trung\Desktop\Work\SAVIS_Training-Foundation_Dang-Duc-Trung\WebAPI_2\bin\System.Web.Http.WebHost.xml
+C:\Users\trung\Desktop\Work\SAVIS_Training-Foundation_Dang-Duc-Trung\WebAPI_2\obj\Debug\WebAPI_2.csprojAssemblyReference.cache
+C:\Users\trung\Desktop\Work\SAVIS_Training-Foundation_Dang-Duc-Trung\WebAPI_2\obj\Debug\WebAPI_2.csproj.CoreCompileInputs.cache
+C:\Users\trung\Desktop\Work\SAVIS_Training-Foundation_Dang-Duc-Trung\WebAPI_2\obj\Debug\WebAPI_2.csproj.CopyComplete
+C:\Users\trung\Desktop\Work\SAVIS_Training-Foundation_Dang-Duc-Trung\WebAPI_2\obj\Debug\WebAPI_2.dll
+C:\Users\trung\Desktop\Work\SAVIS_Training-Foundation_Dang-Duc-Trung\WebAPI_2\obj\Debug\WebAPI_2.pdb

@@ -1,0 +1,14 @@
+C:\Users\trung\Desktop\Work\SAVIS_Training-Foundation_Dang-Duc-Trung\NET Core API Code First\bin\Debug\netcoreapp2.1\NET Core API Code First.deps.json
+C:\Users\trung\Desktop\Work\SAVIS_Training-Foundation_Dang-Duc-Trung\NET Core API Code First\bin\Debug\netcoreapp2.1\NET Core API Code First.runtimeconfig.json
+C:\Users\trung\Desktop\Work\SAVIS_Training-Foundation_Dang-Duc-Trung\NET Core API Code First\bin\Debug\netcoreapp2.1\NET Core API Code First.runtimeconfig.dev.json
+C:\Users\trung\Desktop\Work\SAVIS_Training-Foundation_Dang-Duc-Trung\NET Core API Code First\bin\Debug\netcoreapp2.1\NET Core API Code First.dll
+C:\Users\trung\Desktop\Work\SAVIS_Training-Foundation_Dang-Duc-Trung\NET Core API Code First\bin\Debug\netcoreapp2.1\NET Core API Code First.pdb
+C:\Users\trung\Desktop\Work\SAVIS_Training-Foundation_Dang-Duc-Trung\NET Core API Code First\obj\Debug\netcoreapp2.1\NET Core API Code First.csprojAssemblyReference.cache
+C:\Users\trung\Desktop\Work\SAVIS_Training-Foundation_Dang-Duc-Trung\NET Core API Code First\obj\Debug\netcoreapp2.1\NET Core API Code First.csproj.CoreCompileInputs.cache
+C:\Users\trung\Desktop\Work\SAVIS_Training-Foundation_Dang-Duc-Trung\NET Core API Code First\obj\Debug\netcoreapp2.1\NET Core API Code First.RazorAssemblyInfo.cache
+C:\Users\trung\Desktop\Work\SAVIS_Training-Foundation_Dang-Duc-Trung\NET Core API Code First\obj\Debug\netcoreapp2.1\NET Core API Code First.RazorAssemblyInfo.cs
+C:\Users\trung\Desktop\Work\SAVIS_Training-Foundation_Dang-Duc-Trung\NET Core API Code First\obj\Debug\netcoreapp2.1\NET Core API Code First.AssemblyInfoInputs.cache
+C:\Users\trung\Desktop\Work\SAVIS_Training-Foundation_Dang-Duc-Trung\NET Core API Code First\obj\Debug\netcoreapp2.1\NET Core API Code First.AssemblyInfo.cs
+C:\Users\trung\Desktop\Work\SAVIS_Training-Foundation_Dang-Duc-Trung\NET Core API Code First\obj\Debug\netcoreapp2.1\NET Core API Code First.RazorTargetAssemblyInfo.cache
+C:\Users\trung\Desktop\Work\SAVIS_Training-Foundation_Dang-Duc-Trung\NET Core API Code First\obj\Debug\netcoreapp2.1\NET Core API Code First.dll
+C:\Users\trung\Desktop\Work\SAVIS_Training-Foundation_Dang-Duc-Trung\NET Core API Code First\obj\Debug\netcoreapp2.1\NET Core API Code First.pdb

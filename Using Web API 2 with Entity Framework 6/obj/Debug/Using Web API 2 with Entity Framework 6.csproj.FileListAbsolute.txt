@@ -90,3 +90,95 @@ C:\Users\Trung\Documents\Visual Studio 2015\Projects\SAVIS_Training-Foundation_D
 C:\Users\Trung\Documents\Visual Studio 2015\Projects\SAVIS_Training-Foundation_Dang-Duc-Trung\Using Web API 2 with Entity Framework 6\obj\Debug\Using_Web_API_2_with_Entity_Framework_6.Migrations.Initial.resources
 C:\Users\Trung\Documents\Visual Studio 2015\Projects\SAVIS_Training-Foundation_Dang-Duc-Trung\Using Web API 2 with Entity Framework 6\obj\Debug\Using Web API 2 with Entity Framework 6.csproj.GenerateResource.cache
 C:\Users\Trung\Documents\Visual Studio 2015\Projects\SAVIS_Training-Foundation_Dang-Duc-Trung\Using Web API 2 with Entity Framework 6\obj\Debug\Using Web API 2 with Entity Framework 6.csprojAssemblyReference.cache
+C:\Users\trung\Desktop\Work\SAVIS_Training-Foundation_Dang-Duc-Trung\Using Web API 2 with Entity Framework 6\bin\Using Web API 2 with Entity Framework 6.dll.config
+C:\Users\trung\Desktop\Work\SAVIS_Training-Foundation_Dang-Duc-Trung\Using Web API 2 with Entity Framework 6\bin\Using Web API 2 with Entity Framework 6.dll
+C:\Users\trung\Desktop\Work\SAVIS_Training-Foundation_Dang-Duc-Trung\Using Web API 2 with Entity Framework 6\bin\Using Web API 2 with Entity Framework 6.pdb
+C:\Users\trung\Desktop\Work\SAVIS_Training-Foundation_Dang-Duc-Trung\Using Web API 2 with Entity Framework 6\bin\roslyn\csc.exe
+C:\Users\trung\Desktop\Work\SAVIS_Training-Foundation_Dang-Duc-Trung\Using Web API 2 with Entity Framework 6\bin\roslyn\csc.exe.config
+C:\Users\trung\Desktop\Work\SAVIS_Training-Foundation_Dang-Duc-Trung\Using Web API 2 with Entity Framework 6\bin\roslyn\csc.rsp
+C:\Users\trung\Desktop\Work\SAVIS_Training-Foundation_Dang-Duc-Trung\Using Web API 2 with Entity Framework 6\bin\roslyn\csi.exe
+C:\Users\trung\Desktop\Work\SAVIS_Training-Foundation_Dang-Duc-Trung\Using Web API 2 with Entity Framework 6\bin\roslyn\csi.exe.config
+C:\Users\trung\Desktop\Work\SAVIS_Training-Foundation_Dang-Duc-Trung\Using Web API 2 with Entity Framework 6\bin\roslyn\csi.rsp
+C:\Users\trung\Desktop\Work\SAVIS_Training-Foundation_Dang-Duc-Trung\Using Web API 2 with Entity Framework 6\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\trung\Desktop\Work\SAVIS_Training-Foundation_Dang-Duc-Trung\Using Web API 2 with Entity Framework 6\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\trung\Desktop\Work\SAVIS_Training-Foundation_Dang-Duc-Trung\Using Web API 2 with Entity Framework 6\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\trung\Desktop\Work\SAVIS_Training-Foundation_Dang-Duc-Trung\Using Web API 2 with Entity Framework 6\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\trung\Desktop\Work\SAVIS_Training-Foundation_Dang-Duc-Trung\Using Web API 2 with Entity Framework 6\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\trung\Desktop\Work\SAVIS_Training-Foundation_Dang-Duc-Trung\Using Web API 2 with Entity Framework 6\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\trung\Desktop\Work\SAVIS_Training-Foundation_Dang-Duc-Trung\Using Web API 2 with Entity Framework 6\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\trung\Desktop\Work\SAVIS_Training-Foundation_Dang-Duc-Trung\Using Web API 2 with Entity Framework 6\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\trung\Desktop\Work\SAVIS_Training-Foundation_Dang-Duc-Trung\Using Web API 2 with Entity Framework 6\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\trung\Desktop\Work\SAVIS_Training-Foundation_Dang-Duc-Trung\Using Web API 2 with Entity Framework 6\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\trung\Desktop\Work\SAVIS_Training-Foundation_Dang-Duc-Trung\Using Web API 2 with Entity Framework 6\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\trung\Desktop\Work\SAVIS_Training-Foundation_Dang-Duc-Trung\Using Web API 2 with Entity Framework 6\bin\roslyn\System.AppContext.dll
+C:\Users\trung\Desktop\Work\SAVIS_Training-Foundation_Dang-Duc-Trung\Using Web API 2 with Entity Framework 6\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\trung\Desktop\Work\SAVIS_Training-Foundation_Dang-Duc-Trung\Using Web API 2 with Entity Framework 6\bin\roslyn\System.Console.dll
+C:\Users\trung\Desktop\Work\SAVIS_Training-Foundation_Dang-Duc-Trung\Using Web API 2 with Entity Framework 6\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\trung\Desktop\Work\SAVIS_Training-Foundation_Dang-Duc-Trung\Using Web API 2 with Entity Framework 6\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\trung\Desktop\Work\SAVIS_Training-Foundation_Dang-Duc-Trung\Using Web API 2 with Entity Framework 6\bin\roslyn\System.IO.Compression.dll
+C:\Users\trung\Desktop\Work\SAVIS_Training-Foundation_Dang-Duc-Trung\Using Web API 2 with Entity Framework 6\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\trung\Desktop\Work\SAVIS_Training-Foundation_Dang-Duc-Trung\Using Web API 2 with Entity Framework 6\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\trung\Desktop\Work\SAVIS_Training-Foundation_Dang-Duc-Trung\Using Web API 2 with Entity Framework 6\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\trung\Desktop\Work\SAVIS_Training-Foundation_Dang-Duc-Trung\Using Web API 2 with Entity Framework 6\bin\roslyn\System.IO.Pipes.dll
+C:\Users\trung\Desktop\Work\SAVIS_Training-Foundation_Dang-Duc-Trung\Using Web API 2 with Entity Framework 6\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\trung\Desktop\Work\SAVIS_Training-Foundation_Dang-Duc-Trung\Using Web API 2 with Entity Framework 6\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\trung\Desktop\Work\SAVIS_Training-Foundation_Dang-Duc-Trung\Using Web API 2 with Entity Framework 6\bin\roslyn\System.Security.Claims.dll
+C:\Users\trung\Desktop\Work\SAVIS_Training-Foundation_Dang-Duc-Trung\Using Web API 2 with Entity Framework 6\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\trung\Desktop\Work\SAVIS_Training-Foundation_Dang-Duc-Trung\Using Web API 2 with Entity Framework 6\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\trung\Desktop\Work\SAVIS_Training-Foundation_Dang-Duc-Trung\Using Web API 2 with Entity Framework 6\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\trung\Desktop\Work\SAVIS_Training-Foundation_Dang-Duc-Trung\Using Web API 2 with Entity Framework 6\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\trung\Desktop\Work\SAVIS_Training-Foundation_Dang-Duc-Trung\Using Web API 2 with Entity Framework 6\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\trung\Desktop\Work\SAVIS_Training-Foundation_Dang-Duc-Trung\Using Web API 2 with Entity Framework 6\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\trung\Desktop\Work\SAVIS_Training-Foundation_Dang-Duc-Trung\Using Web API 2 with Entity Framework 6\bin\roslyn\System.ValueTuple.dll
+C:\Users\trung\Desktop\Work\SAVIS_Training-Foundation_Dang-Duc-Trung\Using Web API 2 with Entity Framework 6\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\trung\Desktop\Work\SAVIS_Training-Foundation_Dang-Duc-Trung\Using Web API 2 with Entity Framework 6\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\trung\Desktop\Work\SAVIS_Training-Foundation_Dang-Duc-Trung\Using Web API 2 with Entity Framework 6\bin\roslyn\System.Xml.XPath.dll
+C:\Users\trung\Desktop\Work\SAVIS_Training-Foundation_Dang-Duc-Trung\Using Web API 2 with Entity Framework 6\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\trung\Desktop\Work\SAVIS_Training-Foundation_Dang-Duc-Trung\Using Web API 2 with Entity Framework 6\bin\roslyn\vbc.exe
+C:\Users\trung\Desktop\Work\SAVIS_Training-Foundation_Dang-Duc-Trung\Using Web API 2 with Entity Framework 6\bin\roslyn\vbc.exe.config
+C:\Users\trung\Desktop\Work\SAVIS_Training-Foundation_Dang-Duc-Trung\Using Web API 2 with Entity Framework 6\bin\roslyn\vbc.rsp
+C:\Users\trung\Desktop\Work\SAVIS_Training-Foundation_Dang-Duc-Trung\Using Web API 2 with Entity Framework 6\bin\roslyn\VBCSCompiler.exe
+C:\Users\trung\Desktop\Work\SAVIS_Training-Foundation_Dang-Duc-Trung\Using Web API 2 with Entity Framework 6\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\trung\Desktop\Work\SAVIS_Training-Foundation_Dang-Duc-Trung\Using Web API 2 with Entity Framework 6\bin\Antlr3.Runtime.dll
+C:\Users\trung\Desktop\Work\SAVIS_Training-Foundation_Dang-Duc-Trung\Using Web API 2 with Entity Framework 6\bin\EntityFramework.dll
+C:\Users\trung\Desktop\Work\SAVIS_Training-Foundation_Dang-Duc-Trung\Using Web API 2 with Entity Framework 6\bin\EntityFramework.SqlServer.dll
+C:\Users\trung\Desktop\Work\SAVIS_Training-Foundation_Dang-Duc-Trung\Using Web API 2 with Entity Framework 6\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\trung\Desktop\Work\SAVIS_Training-Foundation_Dang-Duc-Trung\Using Web API 2 with Entity Framework 6\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\trung\Desktop\Work\SAVIS_Training-Foundation_Dang-Duc-Trung\Using Web API 2 with Entity Framework 6\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\trung\Desktop\Work\SAVIS_Training-Foundation_Dang-Duc-Trung\Using Web API 2 with Entity Framework 6\bin\Newtonsoft.Json.dll
+C:\Users\trung\Desktop\Work\SAVIS_Training-Foundation_Dang-Duc-Trung\Using Web API 2 with Entity Framework 6\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\trung\Desktop\Work\SAVIS_Training-Foundation_Dang-Duc-Trung\Using Web API 2 with Entity Framework 6\bin\System.Net.Http.Formatting.dll
+C:\Users\trung\Desktop\Work\SAVIS_Training-Foundation_Dang-Duc-Trung\Using Web API 2 with Entity Framework 6\bin\System.Web.Helpers.dll
+C:\Users\trung\Desktop\Work\SAVIS_Training-Foundation_Dang-Duc-Trung\Using Web API 2 with Entity Framework 6\bin\System.Web.Http.dll
+C:\Users\trung\Desktop\Work\SAVIS_Training-Foundation_Dang-Duc-Trung\Using Web API 2 with Entity Framework 6\bin\System.Web.Http.WebHost.dll
+C:\Users\trung\Desktop\Work\SAVIS_Training-Foundation_Dang-Duc-Trung\Using Web API 2 with Entity Framework 6\bin\System.Web.Mvc.dll
+C:\Users\trung\Desktop\Work\SAVIS_Training-Foundation_Dang-Duc-Trung\Using Web API 2 with Entity Framework 6\bin\System.Web.Optimization.dll
+C:\Users\trung\Desktop\Work\SAVIS_Training-Foundation_Dang-Duc-Trung\Using Web API 2 with Entity Framework 6\bin\System.Web.Razor.dll
+C:\Users\trung\Desktop\Work\SAVIS_Training-Foundation_Dang-Duc-Trung\Using Web API 2 with Entity Framework 6\bin\System.Web.WebPages.Deployment.dll
+C:\Users\trung\Desktop\Work\SAVIS_Training-Foundation_Dang-Duc-Trung\Using Web API 2 with Entity Framework 6\bin\System.Web.WebPages.dll
+C:\Users\trung\Desktop\Work\SAVIS_Training-Foundation_Dang-Duc-Trung\Using Web API 2 with Entity Framework 6\bin\System.Web.WebPages.Razor.dll
+C:\Users\trung\Desktop\Work\SAVIS_Training-Foundation_Dang-Duc-Trung\Using Web API 2 with Entity Framework 6\bin\WebGrease.dll
+C:\Users\trung\Desktop\Work\SAVIS_Training-Foundation_Dang-Duc-Trung\Using Web API 2 with Entity Framework 6\bin\EntityFramework.xml
+C:\Users\trung\Desktop\Work\SAVIS_Training-Foundation_Dang-Duc-Trung\Using Web API 2 with Entity Framework 6\bin\EntityFramework.SqlServer.xml
+C:\Users\trung\Desktop\Work\SAVIS_Training-Foundation_Dang-Duc-Trung\Using Web API 2 with Entity Framework 6\bin\Newtonsoft.Json.xml
+C:\Users\trung\Desktop\Work\SAVIS_Training-Foundation_Dang-Duc-Trung\Using Web API 2 with Entity Framework 6\bin\System.Net.Http.Formatting.xml
+C:\Users\trung\Desktop\Work\SAVIS_Training-Foundation_Dang-Duc-Trung\Using Web API 2 with Entity Framework 6\bin\System.Web.Helpers.xml
+C:\Users\trung\Desktop\Work\SAVIS_Training-Foundation_Dang-Duc-Trung\Using Web API 2 with Entity Framework 6\bin\System.Web.Http.xml
+C:\Users\trung\Desktop\Work\SAVIS_Training-Foundation_Dang-Duc-Trung\Using Web API 2 with Entity Framework 6\bin\System.Web.Http.WebHost.xml
+C:\Users\trung\Desktop\Work\SAVIS_Training-Foundation_Dang-Duc-Trung\Using Web API 2 with Entity Framework 6\bin\System.Web.Mvc.xml
+C:\Users\trung\Desktop\Work\SAVIS_Training-Foundation_Dang-Duc-Trung\Using Web API 2 with Entity Framework 6\bin\System.Web.Optimization.xml
+C:\Users\trung\Desktop\Work\SAVIS_Training-Foundation_Dang-Duc-Trung\Using Web API 2 with Entity Framework 6\bin\System.Web.Razor.xml
+C:\Users\trung\Desktop\Work\SAVIS_Training-Foundation_Dang-Duc-Trung\Using Web API 2 with Entity Framework 6\bin\System.Web.WebPages.xml
+C:\Users\trung\Desktop\Work\SAVIS_Training-Foundation_Dang-Duc-Trung\Using Web API 2 with Entity Framework 6\bin\System.Web.WebPages.Deployment.xml
+C:\Users\trung\Desktop\Work\SAVIS_Training-Foundation_Dang-Duc-Trung\Using Web API 2 with Entity Framework 6\bin\System.Web.WebPages.Razor.xml
+C:\Users\trung\Desktop\Work\SAVIS_Training-Foundation_Dang-Duc-Trung\Using Web API 2 with Entity Framework 6\bin\Antlr3.Runtime.pdb
+C:\Users\trung\Desktop\Work\SAVIS_Training-Foundation_Dang-Duc-Trung\Using Web API 2 with Entity Framework 6\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\trung\Desktop\Work\SAVIS_Training-Foundation_Dang-Duc-Trung\Using Web API 2 with Entity Framework 6\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\trung\Desktop\Work\SAVIS_Training-Foundation_Dang-Duc-Trung\Using Web API 2 with Entity Framework 6\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\trung\Desktop\Work\SAVIS_Training-Foundation_Dang-Duc-Trung\Using Web API 2 with Entity Framework 6\obj\Debug\Using Web API 2 with Entity Framework 6.csprojAssemblyReference.cache
+C:\Users\trung\Desktop\Work\SAVIS_Training-Foundation_Dang-Duc-Trung\Using Web API 2 with Entity Framework 6\obj\Debug\Using_Web_API_2_with_Entity_Framework_6.Migrations.Initial.resources
+C:\Users\trung\Desktop\Work\SAVIS_Training-Foundation_Dang-Duc-Trung\Using Web API 2 with Entity Framework 6\obj\Debug\Using Web API 2 with Entity Framework 6.csproj.GenerateResource.cache
+C:\Users\trung\Desktop\Work\SAVIS_Training-Foundation_Dang-Duc-Trung\Using Web API 2 with Entity Framework 6\obj\Debug\Using Web API 2 with Entity Framework 6.csproj.CoreCompileInputs.cache
+C:\Users\trung\Desktop\Work\SAVIS_Training-Foundation_Dang-Duc-Trung\Using Web API 2 with Entity Framework 6\obj\Debug\Using Web API 2 with Entity Framework 6.csproj.CopyComplete
+C:\Users\trung\Desktop\Work\SAVIS_Training-Foundation_Dang-Duc-Trung\Using Web API 2 with Entity Framework 6\obj\Debug\Using Web API 2 with Entity Framework 6.dll
+C:\Users\trung\Desktop\Work\SAVIS_Training-Foundation_Dang-Duc-Trung\Using Web API 2 with Entity Framework 6\obj\Debug\Using Web API 2 with Entity Framework 6.pdb
