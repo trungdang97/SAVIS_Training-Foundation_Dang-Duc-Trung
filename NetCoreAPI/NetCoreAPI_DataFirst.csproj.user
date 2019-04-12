@@ -13,6 +13,6 @@
     <WebStackScaffolding_IsReferencingScriptLibrariesSelected>True</WebStackScaffolding_IsReferencingScriptLibrariesSelected>
     <WebStackScaffolding_LayoutPageFile />
     <WebStackScaffolding_IsAsyncSelected>False</WebStackScaffolding_IsAsyncSelected>
-    <WebStackScaffolding_DbContextTypeFullName>NetCoreAPI.Models.QuanLySinhVienContext</WebStackScaffolding_DbContextTypeFullName>
+    <WebStackScaffolding_DbContextTypeFullName>NetCoreAPI_DataFirst.Models.NETCoreSchoolContext</WebStackScaffolding_DbContextTypeFullName>
   </PropertyGroup>
 </Project>

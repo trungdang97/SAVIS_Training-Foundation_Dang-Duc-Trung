@@ -1,0 +1,14 @@
+C:\Users\trung\Desktop\Work\SAVIS_Training-Foundation_Dang-Duc-Trung\NetCoreAPI\bin\Debug\netcoreapp2.1\NetCoreAPI_DataFirst.deps.json
+C:\Users\trung\Desktop\Work\SAVIS_Training-Foundation_Dang-Duc-Trung\NetCoreAPI\bin\Debug\netcoreapp2.1\NetCoreAPI_DataFirst.runtimeconfig.json
+C:\Users\trung\Desktop\Work\SAVIS_Training-Foundation_Dang-Duc-Trung\NetCoreAPI\bin\Debug\netcoreapp2.1\NetCoreAPI_DataFirst.runtimeconfig.dev.json
+C:\Users\trung\Desktop\Work\SAVIS_Training-Foundation_Dang-Duc-Trung\NetCoreAPI\bin\Debug\netcoreapp2.1\NetCoreAPI_DataFirst.dll
+C:\Users\trung\Desktop\Work\SAVIS_Training-Foundation_Dang-Duc-Trung\NetCoreAPI\bin\Debug\netcoreapp2.1\NetCoreAPI_DataFirst.pdb
+C:\Users\trung\Desktop\Work\SAVIS_Training-Foundation_Dang-Duc-Trung\NetCoreAPI\obj\Debug\netcoreapp2.1\NetCoreAPI_DataFirst.csprojAssemblyReference.cache
+C:\Users\trung\Desktop\Work\SAVIS_Training-Foundation_Dang-Duc-Trung\NetCoreAPI\obj\Debug\netcoreapp2.1\NetCoreAPI_DataFirst.csproj.CoreCompileInputs.cache
+C:\Users\trung\Desktop\Work\SAVIS_Training-Foundation_Dang-Duc-Trung\NetCoreAPI\obj\Debug\netcoreapp2.1\NetCoreAPI_DataFirst.RazorAssemblyInfo.cache
+C:\Users\trung\Desktop\Work\SAVIS_Training-Foundation_Dang-Duc-Trung\NetCoreAPI\obj\Debug\netcoreapp2.1\NetCoreAPI_DataFirst.RazorAssemblyInfo.cs
+C:\Users\trung\Desktop\Work\SAVIS_Training-Foundation_Dang-Duc-Trung\NetCoreAPI\obj\Debug\netcoreapp2.1\NetCoreAPI_DataFirst.AssemblyInfoInputs.cache
+C:\Users\trung\Desktop\Work\SAVIS_Training-Foundation_Dang-Duc-Trung\NetCoreAPI\obj\Debug\netcoreapp2.1\NetCoreAPI_DataFirst.AssemblyInfo.cs
+C:\Users\trung\Desktop\Work\SAVIS_Training-Foundation_Dang-Duc-Trung\NetCoreAPI\obj\Debug\netcoreapp2.1\NetCoreAPI_DataFirst.RazorTargetAssemblyInfo.cache
+C:\Users\trung\Desktop\Work\SAVIS_Training-Foundation_Dang-Duc-Trung\NetCoreAPI\obj\Debug\netcoreapp2.1\NetCoreAPI_DataFirst.dll
+C:\Users\trung\Desktop\Work\SAVIS_Training-Foundation_Dang-Duc-Trung\NetCoreAPI\obj\Debug\netcoreapp2.1\NetCoreAPI_DataFirst.pdb

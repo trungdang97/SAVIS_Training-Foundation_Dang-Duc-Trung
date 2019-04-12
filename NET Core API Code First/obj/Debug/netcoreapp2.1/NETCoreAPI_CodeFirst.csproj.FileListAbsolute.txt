@@ -11,3 +11,4 @@ C:\Users\trung\Desktop\Work\SAVIS_Training-Foundation_Dang-Duc-Trung\NET Core AP
 C:\Users\trung\Desktop\Work\SAVIS_Training-Foundation_Dang-Duc-Trung\NET Core API Code First\obj\Debug\netcoreapp2.1\NETCoreAPI_CodeFirst.RazorTargetAssemblyInfo.cache
 C:\Users\trung\Desktop\Work\SAVIS_Training-Foundation_Dang-Duc-Trung\NET Core API Code First\obj\Debug\netcoreapp2.1\NETCoreAPI_CodeFirst.dll
 C:\Users\trung\Desktop\Work\SAVIS_Training-Foundation_Dang-Duc-Trung\NET Core API Code First\obj\Debug\netcoreapp2.1\NETCoreAPI_CodeFirst.pdb
+C:\Users\trung\Desktop\Work\SAVIS_Training-Foundation_Dang-Duc-Trung\NET Core API Code First\obj\Debug\netcoreapp2.1\NETCoreAPI_CodeFirst.csprojAssemblyReference.cache

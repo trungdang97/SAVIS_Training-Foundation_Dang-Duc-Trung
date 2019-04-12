@@ -11,6 +11,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.Options;
+using NetCoreAPI_DataFirst.Models;
 
 namespace NetCoreAPI
 {
@@ -30,9 +31,9 @@ namespace NetCoreAPI
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_1);
 
             //add database
-            //var connection = @"Server=(localdb)\mssqllocaldb;Database=NetCore.EF.School;Trusted_Connection=True;ConnectRetryCount=0";
-            //services.AddDbContext<SchoolContext>
-            //    (options => options.UseSqlServer(connection));
+            var connection = @"Data Source=.\SQLEXPRESS;Initial Catalog=NET.Core.School;Integrated Security=True;ConnectRetryCount=0";
+            services.AddDbContext<NETCoreSchoolContext>
+                (options => options.UseSqlServer(connection));
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

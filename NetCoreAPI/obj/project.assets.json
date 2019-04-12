@@ -12540,9 +12540,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\trung\\Desktop\\Work\\SAVIS_Training-Foundation_Dang-Duc-Trung\\NetCoreAPI\\NetCoreAPI (DataFirst - failed).csproj",
-      "projectName": "NetCoreAPI (DataFirst - failed)",
-      "projectPath": "C:\\Users\\trung\\Desktop\\Work\\SAVIS_Training-Foundation_Dang-Duc-Trung\\NetCoreAPI\\NetCoreAPI (DataFirst - failed).csproj",
+      "projectUniqueName": "C:\\Users\\trung\\Desktop\\Work\\SAVIS_Training-Foundation_Dang-Duc-Trung\\NetCoreAPI\\NetCoreAPI_DataFirst.csproj",
+      "projectName": "NetCoreAPI_DataFirst",
+      "projectPath": "C:\\Users\\trung\\Desktop\\Work\\SAVIS_Training-Foundation_Dang-Duc-Trung\\NetCoreAPI\\NetCoreAPI_DataFirst.csproj",
       "packagesPath": "C:\\Users\\trung\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\trung\\Desktop\\Work\\SAVIS_Training-Foundation_Dang-Duc-Trung\\NetCoreAPI\\obj\\",
       "projectStyle": "PackageReference",
